@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="303" height="456" viewBox="0 0 303 456">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="_1" data-name="1" width="303" height="456" transform="translate(29 734)"/>
+    </clipPath>
+  </defs>
+  <g id="overla-mask" transform="translate(-29 -734)" clip-path="url(#clip-path)">
+    <g id="Group_2" data-name="Group 2">
+      <rect id="overlay" width="303" height="456" transform="translate(29 734)" opacity="0.79"/>
+      <g id="lang">
+        <g id="lang-text">
+          <rect id="small-btn-lang" width="62" height="29" rx="14.5" transform="translate(43 785)" fill="#e7ecb7"/>
+          <text id="lang-2" data-name="lang" transform="translate(58 804)" fill="#2a3136" font-size="13" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Lang</tspan></text>
+        </g>
+        <text id="EN" transform="translate(114 806)" fill="#fff" font-size="17" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">EN</tspan></text>
+      </g>
+      <g id="date">
+        <text id="_2016-10-19" data-name="2016-10-19" transform="translate(245 806)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">2016-10-19</tspan></text>
+        <g id="calendar" transform="translate(213 788)">
+          <path id="Path_2" data-name="Path 2" d="M1.5,6.75v15A1.5,1.5,0,0,0,3,23.25H21a1.5,1.5,0,0,0,1.5-1.5v-15ZM3,2.25a3,3,0,0,0-3,3v16.5a3,3,0,0,0,3,3H21a3,3,0,0,0,3-3V5.25a3,3,0,0,0-3-3Z" transform="translate(0 -0.75)" fill="#fff" fill-rule="evenodd"/>
+          <path id="Path_3" data-name="Path 3" d="M7.5,0a.75.75,0,0,1,.75.75V1.5a.75.75,0,0,1-1.5,0V.75A.75.75,0,0,1,7.5,0ZM21,0a.75.75,0,0,1,.75.75V1.5a.75.75,0,0,1-1.5,0V.75A.75.75,0,0,1,21,0Z" transform="translate(-2.25)" fill="#fff" fill-rule="evenodd"/>
+          <path id="Path_4" data-name="Path 4" d="M18.75,14.25a.75.75,0,0,1,.75-.75H21a.75.75,0,0,1,.75.75v1.5a.75.75,0,0,1-.75.75H19.5a.75.75,0,0,1-.75-.75Zm-4.5,0A.75.75,0,0,1,15,13.5h1.5a.75.75,0,0,1,.75.75v1.5a.75.75,0,0,1-.75.75H15a.75.75,0,0,1-.75-.75Zm-7.5,4.5A.75.75,0,0,1,7.5,18H9a.75.75,0,0,1,.75.75v1.5A.75.75,0,0,1,9,21H7.5a.75.75,0,0,1-.75-.75Zm4.5,0A.75.75,0,0,1,12,18h1.5a.75.75,0,0,1,.75.75v1.5a.75.75,0,0,1-.75.75H12a.75.75,0,0,1-.75-.75Z" transform="translate(-2.25 -4.5)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="overview">
+        <text id="Lorem_ipsum_dolor_sit_amet_consetetur_sadipscing_elitr_sed_diam_nonumy_eirmod_tempor_invidunt_ut_labore_et_dolore_magna_aliquyam_erat_sed_diam_...._At_vero_eos_et_accusam_et_justo_duo_dolores_et_ea_rebum._Stet_clita_kasd_gubergren_no_sea_takimata_sanc" data-name="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam .... 
+At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanc" transform="translate(43 876)" fill="#fff" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="16">Lorem ipsum dolor sit amet, </tspan><tspan x="0" y="39">consetetur sadipscing elitr, sed </tspan><tspan x="0" y="62">diam nonumy eirmod tempor </tspan><tspan x="0" y="85">invidunt ut labore et dolore magna </tspan><tspan x="0" y="108">aliquyam erat, sed diam .... </tspan></text>
+      </g>
+      <g id="btn_watch_mvie" data-name="btn watch mvie" transform="translate(-401 544)">
+        <rect id="Rectangle_4" data-name="Rectangle 4" width="183" height="57" transform="translate(444 483)" fill="#2a3136"/>
+        <text id="watch_movie" data-name="watch movie" transform="translate(494 519)" fill="#eaecee" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Watch Movie</tspan></text>
+        <path id="play" d="M7.875,31.5A1.125,1.125,0,0,1,6.75,30.375V5.625a1.126,1.126,0,0,1,1.688-.979L29.813,17.021a1.125,1.125,0,0,1,0,1.958L8.438,31.354A1.125,1.125,0,0,1,7.875,31.5ZM9,7.571V28.428L27,18Z" transform="translate(452.297 494.502)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

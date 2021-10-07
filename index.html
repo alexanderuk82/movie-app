@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/main.min.css" />
+    <title>Movie app landing page</title>
+  </head>
+  <body>
+    <header class="header">
+      <img src="images/icons/logo.svg" alt="logo" class="logo" />
+      <form action="" id="form">
+        <input
+          type="text"
+          class="header__search"
+          id="search"
+          placeholder="movies, shoes & people"
+          autocomplete="off"
+        />
+        <button class="header__icon-search">
+          <img src="images/icons/search.svg" alt="search-icon" />
+        </button>
+      </form>
+    </header>
+    <section class="hero">
+      <div class="hero__img"></div>
+      <div class="hero__content">
+        <h1 class="hero__h1 hidden">Go ahead, stream free.</h1>
+        <h2 class="hero__h2 hidden">Overview</h2>
+        <p class="hero__text hidden">
+          A group of families on a tropical holiday discover that the secluded
+          beach where they are staying is somehow causing them to age rapidly –
+          reducing their entire lives into a single day.
+        </p>
+
+        <div class="hero__info">
+          <div class="hero__rating">
+            <img src="images/icons/chart-bar.svg" alt="" class="" />
+            <small>Rating</small>
+            <small class="hero__rating--number">9.6</small>
+          </div>
+
+          <div class="hero__description">
+            <p>FR 2021&nbsp; Mystery,&nbsp; Thriller</p>
+            <span class="hero__description--time">
+              <img src="images/icons/time.svg" alt="" class="" />&nbsp; 1h 48m
+            </span>
+          </div>
+        </div>
+
+        <button class="hero__btn">
+          <img
+            src="images/icons/play.svg
+            "
+            alt=""
+          />
+          Watch Movie
+        </button>
+      </div>
+    </section>
+    <main class="main">
+      <h2 class="main__h2">most popular</h2>
+
+      <section class="main__movies">
+        <!-- List of the movies here generated -->
+        <!-- <div class="main__movie">
+          <img src="/images/1.jpg" alt="title" class="main__image" />
+          <span class="green">9.6</span>
+          <div class="main__overview">
+            <div class="main__overview--top">
+              <div class="main__overview--lang">
+                <small>Lang</small>
+                <p class="language">EN</p>
+              </div>
+              <div class="main__overview--date">
+                <img src="/images/icons/calendar.svg" alt="date" />
+                <p class="date">2018-01-19</p>
+              </div>
+            </div>
+            <p class="main__overview--text">
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto
+              similique magni ullam officiis vel quidem nisi error amet!
+              Distinctio, consequuntur?
+            </p>
+            <a class="main__overview--btn">
+              <img
+                src="images/icons/play.svg
+            "
+                alt=""
+              />
+              Watch Movie
+            </a>
+          </div>
+        </div> -->
+      </section>
+      <div class="main__load">
+        <p class="main__load--text">Load more</p>
+      </div>
+    </main>
+    <footer class="footer">
+      <div class="footer__left">
+        <p class="footer__left--text">Landing page was made by Alexander</p>
+      </div>
+      <div class="footer__right">
+        <p class="footer__right--text">Follow me on IG @alexanderstudiouk</p>
+      </div>
+    </footer>
+    <script src="main.js"></script>
+  </body>
+</html>
